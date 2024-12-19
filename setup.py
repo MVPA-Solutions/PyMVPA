@@ -188,7 +188,6 @@ def setup_package():
               "PyMVPA is truly free software (in every respect) and "
               "additionally requires nothing but free-software to run.",
           setup_requires=['numpy'],
-          # please maintain alphanumeric order
           packages=[ 'mvpa2',
                      'mvpa2.algorithms',
                      'mvpa2.algorithms.benchmarks',
