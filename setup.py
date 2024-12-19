@@ -15,7 +15,7 @@ else:
 
 setup(
     name='PyMVPA',
-    version='3.0.1',
+    version='3.0.2',
     description='Multivariate Pattern Analysis in Python',
     long_description=long_description,
     long_description_content_type='text/markdown',
