@@ -173,7 +173,7 @@ def setup_package():
     sys.path.insert(0, src_path)
 
     setup(name='pymvpa',
-          version='3.0.0',
+          version='3.0.1',
           author='MVPA-Solutions',
           author_email='your.email@example.com',
           license='MIT License',
