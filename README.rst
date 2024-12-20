@@ -22,5 +22,7 @@ PyMVPA -- Multivariate Pattern Analysis in Python |build-status| |coverage-statu
 For information how to install PyMVPA please see
 doc/source/installation.rst .
 
+A Useful Python tool in machine learning applications within neuroimaging.
+
 Further information and access to binary packages is available from the
 project website at http://www.pymvpa.org .
