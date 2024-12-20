@@ -11,13 +11,16 @@ else:
         'and use, building on numpy, scipy, matplotlib, nibabel, h5py, '
         'scikit-learn, joblib, and, optionally, other packages for '
         'neuroimaging, machine learning, and psychophysics.'
+        'PyMVPA (Python MultiVariate Pattern Analysis) is used for multivariate pattern analysis of neuroimaging data.'
+        'It supports data preparation, loading, and visualization,'
+        'making it suitable for machine learning applications in neuroscience'
     )
 
 setup(
     name='PyMVPA',
     version='3.0.4',
     description='Multivariate Pattern Analysis in Python',
-    long_description='PyMVPA (Python MultiVariate Pattern Analysis) is used for: multivariate pattern analysis of neuroimaging data. It supports data preparation, loading, and visualization, making it suitable for machine learning applications in neuroscience'
+    long_description=long_description,
     long_description_content_type='text/markdown',
     author='PyMVPA Developers',
     author_email='developers@pymvpa.org',

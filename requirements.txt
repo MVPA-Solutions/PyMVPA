@@ -8,3 +8,4 @@ nibabel
 # pprocess
 # Some parts use it already
 joblib
+python-mvpa2

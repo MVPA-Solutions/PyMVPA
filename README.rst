@@ -1,5 +1,5 @@
 ========================================================================================
-PyMVPA -- Multivariate Pattern Analysis in Python |build-status| |coverage-status| |doi|
+PyMVPA -- Updated Multivariate Pattern Analysis in Python |build-status| |coverage-status| |doi|
 ========================================================================================
 
 .. |doi|
@@ -19,10 +19,22 @@ PyMVPA -- Multivariate Pattern Analysis in Python |build-status| |coverage-statu
    :target: https://coveralls.io/r/PyMVPA/PyMVPA
    :alt: PyMVPA coveralls coverage status
 
-For information how to install PyMVPA please see
-doc/source/installation.rst .
+PyMVPA is a Python package intended to ease statistical learning analyses of
+large datasets. It offers an extensible framework with a high-level interface
+to a broad range of algorithms for classification, regression, feature selection,
+data import and export. It is designed to integrate well with related software packages,
+such as scikit-learn, shogun, MDP, etc.
 
-PyMVPA is A Useful Python tool in machine learning applications within neuroimaging.
+While it is not limited to the neuroimaging domain,
+it is eminently suited for such datasets.
+PyMVPA is free software and requires nothing but free-software to run.
 
-Further information and access to binary packages is available from the
-project website at http://www.pymvpa.org .
+PyMVPA stands for MultiVariate Pattern Analysis (MVPA) in Python.
+
+PyMVPA is available on the Python Package Index (PyPI)
+and can be easily installed using `pip`:
+    ```bash
+    pip install PyMVPA
+    ```
+
+    This command will download and install the latest version of PyMVPA and its required dependencies.
