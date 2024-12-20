@@ -31,7 +31,7 @@ PyMVPA is free software and requires nothing but free-software to run.
 
 PyMVPA stands for MultiVariate Pattern Analysis (MVPA) in Python.
 
-PyMVPA is available on the Python Package Index (PyPI)
+PyMVPA is now also available on the Python Package Index (PyPI)
 and can be easily installed using `pip`:
     ```bash
     pip install PyMVPA

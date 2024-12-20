@@ -21,7 +21,7 @@ PyMVPA.
 If you don't want to read this whole document, and you are on a Debian-based
 system, such as Ubuntu, all you need to know it::
 
-  sudo aptitude install PyMVPA
+  sudo aptitude install python-mvpa2
 
 .. _requirements:
 
